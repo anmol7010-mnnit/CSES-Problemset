@@ -1,3 +1,5 @@
+// Concept => even h ya odd ye find kiya and then accordingly vector mein push krta gya. 
+
 #include <bits/stdc++.h>
 using namespace std;
 
