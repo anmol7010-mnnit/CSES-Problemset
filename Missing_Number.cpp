@@ -1,3 +1,5 @@
+// Concept => Total n ka sum nikala aur phir jitne n diye unka sum nikala aur dono ko subtract kr diya.
+
 #include <bits/stdc++.h>
 using namespace std;
 
