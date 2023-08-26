@@ -1,3 +1,5 @@
+// Concept => By using recursive way of power function i calculate 2 ki power n.
+
 #include <bits/stdc++.h>
 using namespace std;
 #define mod 1000000007
